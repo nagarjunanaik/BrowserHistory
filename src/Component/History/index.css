@@ -1,0 +1,30 @@
+.list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.list1{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.time{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.img{
+    height: 20px;
+    width: 20px;
+    margin-right: 30px;
+}
+.head{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.url{
+    font-size: 20px;
+}
